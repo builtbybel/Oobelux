@@ -1,4 +1,5 @@
 # OobeLux
+##  Setup without the setup pain.
 
 ![explorer_NUdcT52adM](https://github.com/user-attachments/assets/03053f9e-b147-4a7f-b4f5-101da4485902)
 
