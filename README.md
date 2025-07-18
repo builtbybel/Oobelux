@@ -11,9 +11,9 @@ And that, my friends, was the birth of Oobelux.
 
 Its not just a concept, its a working preview of what the Windows 11 setup could and should be. Simple, clear, and actually focused on what users really want — like setting up a local account without playing detective for hidden options.
 
-It’ designed to be user-friendly, unlike Microsoft's philosophy of:
+It's designed to be user-friendly, unlike Microsoft's philosophy of:
 "But why would we want to make it easy for users…?"
 
-Right now, it’s just a preview — but there’s plenty of room to expand, with more pages and features coming soon. Because setup should be simple, fast, and fun. And honestly, it can be
+Right now, it's just a preview — but there's plenty of room to expand, with more pages and features coming soon. Because setup should be simple, fast, and fun. And honestly, it can be
 
 
