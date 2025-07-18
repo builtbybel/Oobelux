@@ -1,6 +1,6 @@
 # OobeLux
 
-![explorer_49VfmMl132](https://github.com/user-attachments/assets/98d24307-ead1-4a5f-8e78-015716bee00d)
+![explorer_NUdcT52adM](https://github.com/user-attachments/assets/03053f9e-b147-4a7f-b4f5-101da4485902)
 
 is not just a concept its a working preview of what the Windows 11 setup could and should be. Simple, clear, and focused on what users really want, like easy local account setup and no hidden options.
 
