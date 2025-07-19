@@ -1,7 +1,7 @@
 # OobeLux
 ##  Setup without the setup pain.
 
-![explorer_NUdcT52adM](https://github.com/user-attachments/assets/03053f9e-b147-4a7f-b4f5-101da4485902)
+![explorer_c0sxdY3SS5](https://github.com/user-attachments/assets/601bf00a-dca8-4b51-9608-bd9a2f312878)
 
 It all started on a boring train ride. I had to reinstall my Windows system (been ages since I last did that). And oh boy, I was once again painfully reminded of how disappointing the Windows 11 setup experience still is.
 
